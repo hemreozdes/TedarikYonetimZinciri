@@ -138,20 +138,20 @@ npm run dev
 ![Login](screenshots/login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.PNG)
 
 ### Ürünler
-![Ürünler](screenshots/products.png)
+![Ürünler](screenshots/products.PNG)
 
-![Ürün Ekle](screenshots/product-modal.png)
+![Ürün Ekle](screenshots/product-modal.PNG)
 
 ### Siparişler
-![Siparişler](screenshots/orders.png)
+![Siparişler](screenshots/orders.PNG)
 
-![Sipariş Oluştur](screenshots/order-modal.png)
+![Sipariş Oluştur](screenshots/order-modal.PNG)
 
 ### Giderler
-![Giderler](screenshots/expenses.png)
+![Giderler](screenshots/expenses.PNG)
 
 ### Kâr Analizi
-![Kâr Analizi](screenshots/profit.png)
+![Kâr Analizi](screenshots/profit.PNG)
